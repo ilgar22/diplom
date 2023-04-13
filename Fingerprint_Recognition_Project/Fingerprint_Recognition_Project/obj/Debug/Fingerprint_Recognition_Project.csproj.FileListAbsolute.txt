@@ -1,0 +1,51 @@
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.exe.config
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.exe
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.pdb
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csprojResolveAssemblyReference.cache
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Form1.resources
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Properties.Resources.resources
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.GenerateResource.Cache
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.exe
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.pdb
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Form2.resources
+c:\users\olaseyo\documents\visual studio 2015\Projects\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Form4.resources
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.exe
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.pdb
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.exe.config
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.exe
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Fingerprint_Recognition_Project.pdb
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Interop.WIA.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\obj\Debug\Fingerprint_Recognition_Project.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.UI.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.World.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\OpenTK.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\OpenTK.GLControl.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\ZedGraph.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\Emgu.CV.World.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\OpenTK.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\OpenTK.GLControl.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\ZedGraph.xml
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\Новая папка (2)\Fingerprint_Recognition_Project\Fingerprint_Recognition_Project\bin\Debug\zh-tw\ZedGraph.resources.dll

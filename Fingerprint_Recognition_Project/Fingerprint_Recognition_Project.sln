@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fingerprint_Recognition_Project", "Fingerprint_Recognition_Project\Fingerprint_Recognition_Project.csproj", "{F3ECF311-81AA-40D8-B49F-7148835FC60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerDemo", "..\..\csharp-scanner-wia-master\ScannerDemo\ScannerDemo.csproj", "{346DBA90-52EB-4E4F-A899-07778C14F8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3ECF311-81AA-40D8-B49F-7148835FC60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3ECF311-81AA-40D8-B49F-7148835FC60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3ECF311-81AA-40D8-B49F-7148835FC60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3ECF311-81AA-40D8-B49F-7148835FC60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346DBA90-52EB-4E4F-A899-07778C14F8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346DBA90-52EB-4E4F-A899-07778C14F8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346DBA90-52EB-4E4F-A899-07778C14F8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346DBA90-52EB-4E4F-A899-07778C14F8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A9C953-27EC-4A1E-95F1-478075A867D5}
+	EndGlobalSection
+EndGlobal
